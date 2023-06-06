@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## 1.5.0-alpha.0 (2023-06-06)
+
+
+### Features
+
+* init ([2e21e11](https://github.com/xiebanglong/jslib/commit/2e21e11edf39127b820363edb2e2377747493c6a))
+
 ## [1.5.0-beta.0](https://gitee.com/thdxbl/jslib/compare/v1.4.3-beta.1...v1.5.0-beta.0) (2023-06-06)
 
 ### Features

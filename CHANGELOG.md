@@ -2,16 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.5.0-alpha.3](https://github.com/xiebanglong/jslib/compare/v1.5.0-alpha.2...v1.5.0-alpha.3) (2023-06-06)
+
 ## [1.5.0-alpha.2](https://github.com/xiebanglong/jslib/compare/v1.5.0-alpha.1...v1.5.0-alpha.2) (2023-06-06)
 
 ## [1.5.0-alpha.1](https://github.com/xiebanglong/jslib/compare/v1.5.0-alpha.0...v1.5.0-alpha.1) (2023-06-06)
 
 ## 1.5.0-alpha.0 (2023-06-06)
 
-
 ### Features
 
-* init ([2e21e11](https://github.com/xiebanglong/jslib/commit/2e21e11edf39127b820363edb2e2377747493c6a))
+- init ([2e21e11](https://github.com/xiebanglong/jslib/commit/2e21e11edf39127b820363edb2e2377747493c6a))
 
 ## [1.5.0-beta.0](https://gitee.com/thdxbl/jslib/compare/v1.4.3-beta.1...v1.5.0-beta.0) (2023-06-06)
 

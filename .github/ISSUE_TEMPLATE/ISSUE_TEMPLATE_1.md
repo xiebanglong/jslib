@@ -1,7 +1,9 @@
 ---
-name: Tracking issue
-about: Use this template for tracking new features.
-title: '[DATE]: [FEATURE NAME]'
-labels: tracking issue, needs triage
-assignees: octocat
+name: issue template 1
+about: my description of issue template 1
+title: issue template 1
 ---
+
+## ISSUE TEMPLATE
+
+my content

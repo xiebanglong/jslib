@@ -12,4 +12,6 @@ export function hello(flag = false) {
   }
 }
 
-export function test() {}
+export function test() {
+  console.log('test');
+}

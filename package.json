@@ -1,6 +1,6 @@
 {
   "name": "one",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "",
   "main": "dist/index.js",
   "jsnext:main": "dist/index.esm.js",

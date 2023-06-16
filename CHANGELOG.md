@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.2](https://github.com/xiebanglong/jslib/compare/v0.0.1...v0.0.2) (2023-06-16)
+
+### Features
+
+- change test3 ([177c1a9](https://github.com/xiebanglong/jslib/commit/177c1a952a486c1abd4b2b7cccafcd0de3eb5561))
+
 ### 0.0.1 (2023-06-16)
 
 ### Features

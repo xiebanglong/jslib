@@ -15,6 +15,7 @@
     "lint": "eslint ./src/**/*.js ./test/**/*.js --cache",
     "commit": "git-cz",
     "prepare": "husky install",
+    "tag:push": "git push && git push --follow-tags origin main",
     "major": "standard-version --release-as major",
     "minor": "standard-version --release-as minor",
     "patch": "standard-version --release-as patch",

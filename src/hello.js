@@ -1,10 +1,10 @@
 const helloWord = 'hello world';
-const a = true;
+const canGo = true;
 export function hello(flag = false) {
   if (flag) {
     console.log(helloWord);
-  } else if (a) {
-    console.log(a);
+  } else if (canGo) {
+    console.log(canGo);
   } else if (helloWord) {
     console.log(helloWord);
   } else {

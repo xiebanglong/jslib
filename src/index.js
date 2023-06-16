@@ -27,6 +27,11 @@ export function clone(source) {
 
   return target;
 }
+const foo = null ?? 'default string';
+const a = { duration: 50 };
+
+a.duration ??= 10;
+console.log(foo, a);
 
 hello();
 helloType();

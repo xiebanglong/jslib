@@ -35,7 +35,7 @@ function getCompiler() {
       [
         '@babel/plugin-transform-runtime',
         {
-          corejs: 2
+          corejs: 3
         }
       ]
     ]

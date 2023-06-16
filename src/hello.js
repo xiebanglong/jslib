@@ -13,5 +13,5 @@ export function hello(flag = false) {
 }
 
 export function test() {
-  console.log('test1');
+  console.log('test2');
 }
